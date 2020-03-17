@@ -1,0 +1,13 @@
+info:
+  name: config.info.version=1
+spring:
+  profiles: dev
+  application:
+    name: cloud-config-client
+---
+info:
+  name: config.info.version=2
+spring:
+  profiles: test
+  application:
+    name: cloud-config-client
