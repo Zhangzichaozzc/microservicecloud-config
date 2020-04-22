@@ -1,6 +1,5 @@
 info:
   name: config.info.version=3
 spring:
-  profiles: dev
   application:
     name: cloud-config-client
