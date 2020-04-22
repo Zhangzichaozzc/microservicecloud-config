@@ -14,4 +14,4 @@ spring:
   application:
     name: cloud-config-client
 server:
-  port: 3356
+  port: 3357
